@@ -6,6 +6,7 @@
 - GitHub link for code repository: https://github.com/i5m/waterfall
 - It’s very simple and intuitive to run on a machine. The steps are mentioned in this file.
 - This file also contains the process I went through and some future works I'd be interested in learning and implementing.
+- The demo video is available at: https://drive.google.com/file/d/1qLx3itPUyrlFSwgQPYV2n6qhAZtJYMv6/view
 
 <hr/>
 
@@ -70,7 +71,7 @@ My biggest concern while discussing with AJ about the engine was on handling mul
 
 #### Working with multiple vendors and funds
 
-The application right now supports data for one enterprise only. It'll be interesting to build an infrasturture and pipeline to support various enterprises with unique needs for loading, processing, results.
+The application right now supports data for one enterprise only. It'll be interesting to build an infrasturture and pipeline to support various enterprises with unique needs for loading, processing, and results.
 
 #### Adding UI for ease of use
 
