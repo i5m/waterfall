@@ -1,0 +1,5 @@
+transaction_date,transaction_amount,contribution_or_distribution,commitment_id
+01/01/2019,"$(1000)",contribution,1
+01/01/2020,"$2000",distribution,1
+01/01/2019,"$(2000)",contribution,2
+01/01/2020,"$4000",distribution,2
