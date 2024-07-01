@@ -43,7 +43,7 @@ class TestDateDifference(unittest.TestCase):
 class TestDataframeLoading(unittest.TestCase):
 
     def test_valid_csv_loading(self):
-        path = "./data/example_commitments.csv"
+        path = "./data/test_commitments.csv"
         df = load_dataframe(path)
         self.assertIsInstance(df, pd.DataFrame)
 
